@@ -23,6 +23,13 @@ a:hover {
     transform: scale(1.05);
 }
 
-<!--color no paragrafo-->#noticias p {
+#noticias p {
     color: var(--dark);
+}
+
+
+.carousel-inner {
+    width: 100% !important;
+    height: 1200px;
+    object-fit: cover;
 }
