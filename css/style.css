@@ -3,7 +3,7 @@
 }
 
 .header_area .main-menu .navbar {
-    padding: 1rem 20rem;
+    padding: 2rem 2rem;
 }
 
 .header_area .main-menu .nav-item .nav-link {
@@ -115,43 +115,8 @@ a:hover {
     top: 50%;
 }
 
-.eviar-email .pessoas {
-    background: url(img/email.png) no-repeat;
-    padding: 10rem 0;
-    margin: 3rem auto;
-}
-
-.site-main .subscribe-us-area .subscribe {
-    background: url(../img/subscribe-bg.png) no-repeat;
-    padding: 10rem 0;
-    margin: 3rem auto;
-}
-
-.site-main .subscribe-us-area .subscribe .subscribe-title h4 {
-    font: normal 700 30px/ 30px var(--dark);
-    color: whitesmoke;
-}
-
-.site-main .subscribe-us-area .subscribe .subscribe-title p {
-    color: whitesmoke;
-    padding: 1rem 4rem;
-}
-
-.site-main .subscribe-us-area .subscribe form .input-textbox input {
-    width: 400px;
-    padding: 1.5rem 1rem;
-    border: 1px solid whitesmoke;
-    background: transparent;
-    color: white;
-    font: normal 500 17px/20px var(--dark);
-}
-
-.site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder {
-    color: whitesmoke;
-}
-
-.site-main .subscribe-us-area .subscribe form .btn-submit button {
-    background: whitesmoke;
-    color: #000;
-    padding: .7rem 2rem;
+.eviar-email .container-pessoas .email {
+    margin: 30px;
+    border-radius: 10px;
+    border: 3px dotted green;
 }
