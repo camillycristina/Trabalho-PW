@@ -116,7 +116,15 @@ a:hover {
 }
 
 .eviar-email .container-pessoas .email {
-    margin: 30px;
+    margin: 45px 45px 45px 45px;
     border-radius: 10px;
-    border: 3px dotted green;
+    border: 3px dotted rgb(58, 140, 196);
+}
+
+.eviar-email .container-pessoas .row {
+    padding: 1.5%;
+}
+
+.eviar-email .container-pessoas .title {
+    padding: 1.5% 1.0% 0% 1.0%;
 }
