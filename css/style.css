@@ -115,14 +115,14 @@ a:hover {
 
 .carousel-inner {
     width: 100% !important;
-    height: 1400px;
+    height: 930px;
     object-fit: cover;
 }
 
 @media (max-width: 576px) {
     .carousel-inner {
         width: 100% !important;
-        height: 450px;
+        height: 250px;
         object-fit: cover;
     }
 }
